@@ -280,7 +280,7 @@
 				a += "<li class='carousel-item'><div class='item-post-box'>";
 				a += "<div class='item-post-cover'>";
 				a += "<a href=" + obj[i].href + "><img class='item-image' src=" + obj[i].src + " alt=" + obj[i].title + " /></a>";
-				a += "<div class='hover-box'><div class='btn-wrapper'><i class='icon'><i class='line'></i><i class='line'></i><i class='line'></i></i><span class='btn'>Read more</span></div></div>";
+				a += "<div class='hover-box'></div>";
 				a += "</div>";
 				a += "<div class='item-post-body'><div class='inner-content'><h3 class='item-title'>";
 				a += "<a href=" + obj[i].href + ">"+ obj[i].title +"</a></h3></div></div>";
